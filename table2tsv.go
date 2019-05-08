@@ -15,10 +15,10 @@ func main() {
 		Authors: []*cli.Author{
 			&cli.Author{
 				Name:  "Kazuo SHOUJI",
-				Email: "shouji_kazuo@kurusugawa.jp",
+				Email: "aitrescueboss@gmail.com",
 			},
 		},
-		Copyright: "Kurusugawa Computer Inc.",
+		Copyright: "",
 		Action: func(aContext *cli.Context) error {
 			return nil
 		},
